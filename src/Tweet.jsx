@@ -1,8 +1,8 @@
 import { useState } from "react";
 
 const Tweet = ({ name, content, tweet, handleDelete, id }) => {
-  const [like, setLike] = useState(0);
-
+   const [like, setLike] = useState(0);
+//fonction d'ajout de like
   const handleClick = () => {
     setLike((e) => {
       return e + 1;
