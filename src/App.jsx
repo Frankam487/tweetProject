@@ -5,12 +5,14 @@ import FormTweetm from "./FormTweetm";
 
 const App = () => {
   const DEFAULT_TWEET = [
+    
     {
       id: 1,
       name: "franco",
       content: "je suis un developpeur react frontend",
       like: 0,
     },
+    
     {
       id: 2,
       name: "thomas",
