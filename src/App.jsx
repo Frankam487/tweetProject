@@ -50,6 +50,7 @@ const App = () => {
         like={tweet.like}
         content={tweet.content}
         id={tweets.id}
+        
       />
     );
   });
