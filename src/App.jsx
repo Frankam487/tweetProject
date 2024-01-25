@@ -7,6 +7,7 @@ const App = () => {
   const DEFAULT_TWEET = [
     
     {
+      
       id: 1,
       name: "franco",
       content: "je suis un developpeur react frontend",
