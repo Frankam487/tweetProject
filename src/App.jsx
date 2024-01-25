@@ -14,6 +14,7 @@ const App = () => {
     },
     
     {
+      
       id: 2,
       name: "thomas",
       content: "je suis un developpeur react frontend",
