@@ -6,7 +6,6 @@ const FormTweetm = ({tweets, setTweetList}) => {
       name: e.name,
       content: e.content,
       like: 0,
-          
     };
     setTweetList([...tweets, newTweet]);
     reset();
